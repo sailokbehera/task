@@ -1,0 +1,15 @@
+{
+    "upload": "/v1/upload",
+    "authentication": "authentication",
+    "country": "/v1/country",
+    "interest": "/v1/interest",
+    "authenticatePhone": "/v1/authenticate-phone",
+    "authenticateGoogle": "/v1/authenticate-google",
+    "authenticateApple": "/v1/authenticate-apple",
+    "user": "/v1/user",
+    "authenticateJWT": "/v1/authenticate-jwt",
+    "connectCommunity": "/v1/connect-community",
+    "community": "/v1/community",
+    "state": "/v1/state",
+    "city": "/v1/city"
+}
