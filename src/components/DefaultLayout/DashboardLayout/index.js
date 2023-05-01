@@ -19,7 +19,6 @@ import sign_out_icon from "../../../../public/icons/signout_icon.png";
 import BottomNavigationAction from "@mui/material/BottomNavigationAction";
 import BottomNavigation from "@mui/material/BottomNavigation";
 import Confirm from "../../Confirm";
-import {authCookieName, cookieStorage} from "../../../apis/rest.app";
 import notification_icon from '../../../../public/icons/notification_icon.png';
 import notificationSelected_icon from '../../../../public/icons/notificationSelected_icon.png';
 
